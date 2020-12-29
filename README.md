@@ -1,2 +1,2 @@
 # holiday
- The program displays all weekends in the year you set.
+ The program displays all holidays you set in the year.
